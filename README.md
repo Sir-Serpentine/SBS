@@ -1,2 +1,2 @@
-# ScreenBackupScript
-A PowerShell script to backup screenshots to a separate drive.
+# ScreenshotsBackupScript
+A PowerShell script to backup screenshots to a zip in a different directory.
